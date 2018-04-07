@@ -1,0 +1,7 @@
+# Remove from track
+application/config/config.php
+application/config/database.php
+
+
+# Remove from track
+uploads/
